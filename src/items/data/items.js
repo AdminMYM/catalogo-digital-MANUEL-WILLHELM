@@ -6,12 +6,15 @@ export const items = [
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
+		
 
 		'oem': '17422752632',
 		'marca': 'Mini',
 		'descripcion': 'Electroventilador original Mini Cooper, hecho en Alemania, equipo original marca Mahle Hella.',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_665761-MLA51152086278_082022-F.webp',
-		'categoria': 'Electroventiladores'
+		'categoria': 'Electroventiladores',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -26,7 +29,9 @@ export const items = [
 		'marca': 'Mini',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/vPsAAOSwmsdgISJr/s-l500.jpg',
-		'categoria':'Electroventiladores'
+		'categoria':'Electroventiladores',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -41,7 +46,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_608897-MLA70418192692_072023-F.webp',
-		'categoria':'Electroventiladores'
+		'categoria':'Electroventiladores',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -56,7 +63,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': '',
-		'categoria':'Electroventiladores'
+		'categoria':'Electroventiladores',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -71,7 +80,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_848789-MLA42519580077_072020-F.webp',
-		'categoria':'Electroventiladores'
+		'categoria':'Electroventiladores',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -86,7 +97,9 @@ export const items = [
 		'marca': 'Fiat',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/-W0AAOSwhkFgQQ5b/s-l1200.jpg',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -101,7 +114,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/-W0AAOSwhkFgQQ5b/s-l1200.jpg',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -116,7 +131,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_804186-MLA48956169407_012022-F.webp',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -131,7 +148,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_804186-MLA48956169407_012022-F.webp',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -146,7 +165,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_804186-MLA48956169407_012022-F.webp',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -161,7 +182,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_619507-MLA70657027445_072023-F.webp',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -176,7 +199,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_690472-MLA49010676077_022022-F.webp',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -191,7 +216,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.autociudad.com.ar/common/showimage.aspx?s=600&img=clu-0-wo-logo-0.jpg',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -206,7 +233,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_778896-MLA26967699497_032018-F.webp',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -221,7 +250,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_778896-MLA26967699497_032018-F.webp',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -236,7 +267,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_778896-MLA26967699497_032018-F.webp',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -251,7 +284,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://aglobalcars.com/wp-content/uploads/2023/02/24.jpg',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -266,7 +301,9 @@ export const items = [
 		'marca': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://aglobalcars.com/wp-content/uploads/2023/02/24.jpg',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -281,7 +318,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance.es/media/catalog/product/cache/e730d56669a6b225923c6f3363621cbc/e/6/e687441674ae6a3bb5c6808cae60e10b.jpg',
-		'categoria':'Disco de Freno'
+		'categoria':'Disco de Freno',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -296,7 +335,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_644013-MLA32418427278_102019-F.webp',
-		'categoria':'Disco de Freno'
+		'categoria':'Disco de Freno',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -311,7 +352,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance.es/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/1/0/10aa85cd40ac0c73bae97204aee248b9.jpg',
-		'categoria':'Disco de Freno'
+		'categoria':'Disco de Freno',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -326,7 +369,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_978235-MCO68869216878_042023-F.webp',
-		'categoria':'Disco de Freno'
+		'categoria':'Disco de Freno',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 	
 	{
@@ -341,7 +386,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_876352-MLA49913666951_052022-F.webp',
-		'categoria':'Bomba Combustible'
+		'categoria':'Bomba Combustible',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -356,7 +403,11 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/71w0JgDntSL._AC_SL1500_.jpg',
-		'categoria':'Base Amortiguador'
+		'categoria':'Base Amortiguador',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -371,7 +422,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance.es/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/c/b/cbf0a102d3eb727257e6f60d840b576d.jpg',
-		'categoria':'Base Amortiguador'
+		'categoria':'Base Amortiguador',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -386,7 +439,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance.es/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/c/6/c6fcb26b77e6b6c65acc17f62b306b36.png',
-		'categoria':'Base Amortiguador'
+		'categoria':'Base Amortiguador',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -401,7 +456,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.italianadesuspensiones.com/cdn/shop/products/IMG_0144_32a6a033-277d-4284-a923-ec6c3bb3c93a_480x480.JPG?v=1573777391',
-		'categoria':'Base Amortiguador'
+		'categoria':'Base Amortiguador',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -416,7 +473,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.italianadesuspensiones.com/cdn/shop/products/IMG_0144_32a6a033-277d-4284-a923-ec6c3bb3c93a_480x480.JPG?v=1573777391',
-		'categoria':'Base Amortiguador'
+		'categoria':'Base Amortiguador',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -431,7 +490,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.italianadesuspensiones.com/cdn/shop/products/IMG_0144_32a6a033-277d-4284-a923-ec6c3bb3c93a_480x480.JPG?v=1573777391',
-		'categoria':'Base Amortiguador'
+		'categoria':'Base Amortiguador',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -446,7 +507,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.distrecol.com/wp-content/uploads/2017/04/2-13-1808-768x768.jpg',
-		'categoria':'Base Amortiguador'
+		'categoria':'Base Amortiguador',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -461,7 +524,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.distrecol.com/wp-content/uploads/2017/04/2-13-180620v1-768x768.jpg',
-		'categoria':'Base Amortiguador'
+		'categoria':'Base Amortiguador',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -476,7 +541,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_690945-MLA31112260661_062019-F.webp',
-		'categoria':'Base Amortiguador'
+		'categoria':'Base Amortiguador',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -491,7 +558,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance.es/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/f/e/fe6a0c94ceb16600cb327f71b5e6de68.jpg',
-		'categoria':'Base Amortiguador'
+		'categoria':'Base Amortiguador',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -506,7 +575,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance.es/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/0/c/0c7a9a82f33bad584c94d96b789df42b.jpg',
-		'categoria':'Base Amortiguador'
+		'categoria':'Base Amortiguador',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -521,7 +592,9 @@ export const items = [
 		'marca': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://spanish.alibaba.com/product-detail/auto-accessories-shock-absorber-mount-for-60790674642.html#',
-		'categoria':'Base Amortiguador'
+		'categoria':'Base Amortiguador',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -536,7 +609,9 @@ export const items = [
 		'marca': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://spanish.alibaba.com/product-detail/auto-accessories-shock-absorber-mount-for-60790674642.html#',
-		'categoria':'Base Amortiguador'
+		'categoria':'Base Amortiguador',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -551,7 +626,9 @@ export const items = [
 		'marca': 'BMW',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51U5SgnUybL._AC_SL1000_.jpg',
-		'categoria':'Bomba Agua'
+		'categoria':'Bomba Agua',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -566,7 +643,9 @@ export const items = [
 		'marca': 'Mini',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/71z0X-w+Q0L._AC_SL1416_.jpg',
-		'categoria':'Bomba Agua'
+		'categoria':'Bomba Agua',
+		'codigoCliente': 'WH0001',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -581,7 +660,9 @@ export const items = [
 		'marca': 'Mini',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/kaIAAOSwMiRjybJ6/s-l1600.jpg',
-		'categoria':'Bomba Agua'
+		'categoria':'Bomba Agua',
+		'codigoCliente': 'WH0002',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -596,7 +677,9 @@ export const items = [
 		'marca': 'Mini',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/kaIAAOSwMiRjybJ6/s-l1600.jpg',
-		'categoria':'Bomba Agua'
+		'categoria':'Bomba Agua',
+		'codigoCliente': 'WH0003',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -611,7 +694,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_826915-MLA52468696596_112022-F.webp',
-		'categoria':'Bomba Agua'
+		'categoria':'Bomba Agua',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -626,7 +711,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_826915-MLA52468696596_112022-F.webp',
-		'categoria':'Bomba Agua'
+		'categoria':'Bomba Agua',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -641,7 +728,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_826915-MLA52468696596_112022-F.webp',
-		'categoria':'Bomba Agua'
+		'categoria':'Bomba Agua',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -656,7 +745,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://autocity-image-repository.s3.us-east-2.amazonaws.com/products/08-2C4181%2000_400x400.jpg',
-		'categoria':'Aro Pistón'
+		'categoria':'Aro Pistón',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -671,7 +762,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_954500-MLA53640944222_022023-F.webp',
-		'categoria':'Bomba Gasolina'
+		'categoria':'Bomba Gasolina',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -686,7 +779,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_838280-MLA53255249970_012023-F.webp',
-		'categoria':'Bomba Gasolina'
+		'categoria':'Bomba Gasolina',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -701,7 +796,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://img.xentra.com.mx/autopartescimaco/img/productos/BUJE%20HORQUILLA%20TRASERA%202/K-8658/K-8658_842_12_12_22_02_11.webp',
-		'categoria':'Buje Horquilla'
+		'categoria':'Buje Horquilla',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -716,7 +813,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_854017-MLA47603524201_092021-F.webp',
-		'categoria':'Buje Horquilla'
+		'categoria':'Buje Horquilla',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -731,7 +830,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_854017-MLA47603524201_092021-F.webp',
-		'categoria':'Buje Horquilla'
+		'categoria':'Buje Horquilla',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -746,7 +847,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_624747-MLA53333268678_012023-F.webp',
-		'categoria':'Bujía de Precalentamiento'
+		'categoria':'Bujía de Precalentamiento',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -761,7 +864,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_965135-MLA44793086142_022021-F.webp',
-		'categoria':'Cable Sensor'
+		'categoria':'Cable Sensor',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -776,7 +881,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance.es/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/0/b/0bf619419f08acc8f95fdc7beed6b54a.jpg',
-		'categoria':'Collarín Hidráulico'
+		'categoria':'Collarín Hidráulico',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -791,7 +898,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51EUaOHPt-L._AC_SL1000_.jpg',
-		'categoria':'Conmutador Luces'
+		'categoria':'Conmutador Luces',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -806,7 +915,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51f-T1NttnL._AC_SL1000_.jpg',
-		'categoria':'Filtros'
+		'categoria':'Filtros',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -821,7 +932,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51f-T1NttnL._AC_SL1000_.jpg',
-		'categoria':'Filtros'
+		'categoria':'Filtros',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -836,7 +949,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance24.com/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/d/3/d3573b48180f85581b89277d4ccb9ea0.jpg',
-		'categoria':'Filtros'
+		'categoria':'Filtros',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -851,7 +966,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance24.com/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/d/3/d3573b48180f85581b89277d4ccb9ea0.jpg',
-		'categoria':'Filtros'
+		'categoria':'Filtros',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -866,12 +983,14 @@ export const items = [
 		'marca': 'Fiat',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance24.com/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/d/3/d3573b48180f85581b89277d4ccb9ea0.jpg',
-		'categoria':'Filtros'
+		'categoria':'Filtros',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
-		'id': 'dc-parrillasuspension',
-		'name': 'Parrilla Susp. Izq. Giulietta 2010/…',	
+		'id': 'dc-horquillasuspension',
+		'name': 'Horquilla Susp. Izq. Giulietta 2010/…',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
@@ -881,12 +1000,14 @@ export const items = [
 		'marca': 'Alfa Romeo',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/m0cAAOSwMBdbzWvA/s-l500.jpg',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Horquilla Suspensión',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
-		'id': 'dc-parrillasuspension2',
-		'name': 'Parrilla Susp. Der. Giulietta 2010/…',	
+		'id': 'dc-horquillasuspension2',
+		'name': 'Horquilla Susp. Der. Giulietta 2010/…',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
@@ -896,12 +1017,14 @@ export const items = [
 		'marca': 'Alfa Romeo',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_691523-MLA43219146857_082020-F.webp',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Horquilla Suspensión',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
-		'id': 'dc-parrillasuspension3',
-		'name': 'Parrilla Susp. Izq. Partner/Berlingo 2019/…',	
+		'id': 'dc-horquillasuspension3',
+		'name': 'Horquilla Susp. Izq. Partner/Berlingo 2019/…',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
@@ -911,12 +1034,14 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://ecooparts.com//src/img/despiece/v4nd15/14322212/000002415541.webp',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Horquilla Suspensión',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
-		'id': 'dc-parrillasuspension4',
-		'name': 'Parrilla Susp. Der. Partner/Berlingo 2019/…',	
+		'id': 'dc-horquillasuspension4',
+		'name': 'Horquilla Susp. Der. Partner/Berlingo 2019/…',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
@@ -926,12 +1051,14 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://ecooparts.com//src/img/despiece/v4nd15/14322212/000002415541.webp',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Horquilla Suspensión',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
-		'id': 'dc-parrillasuspension5',
-		'name': 'Parrilla Susp. Del. Inf. Izq. P.208/2008 2020/….',	
+		'id': 'dc-horquillasuspension5',
+		'name': 'Horquilla Susp. Del. Inf. Izq. P.208/2008 2020/….',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
@@ -941,12 +1068,14 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://ecooparts.com//src/img/despiece/v4nd15/14322212/000002415541.webp',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Horquilla Suspensión',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
-		'id': 'dc-parrillasuspension6',
-		'name': 'Parrilla Susp. Del. Inf. Der. P.208/2008 2020/….',	
+		'id': 'dc-horquillasuspension6',
+		'name': 'Horquilla Susp. Del. Inf. Der. P.208/2008 2020/….',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
@@ -956,12 +1085,14 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://ecooparts.com//src/img/despiece/v4nd15/14322212/000002415541.webp',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Horquilla Suspensión',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
-		'id': 'dc-parrillasuspension7',
-		'name': 'Parrilla Izq. Peugeot 206',	
+		'id': 'dc-horquillasuspension7',
+		'name': 'Horquilla Izq. Peugeot 206',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
@@ -971,12 +1102,14 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/31kr5dH-ABL._AC_.jpg',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Horquilla Suspensión',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
-		'id': 'dc-parrillasuspension8',
-		'name': 'Parrilla Der. Peugeot 206',	
+		'id': 'dc-horquillasuspension8',
+		'name': 'Horquilla Der. Peugeot 206',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
@@ -986,12 +1119,14 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_828971-MLA31607183068_072019-F.webp',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Horquilla Suspensión',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
-		'id': 'dc-parrillasuspension9',
-		'name': 'Parrilla Suspension 206 1.6',	
+		'id': 'dc-horquillasuspension9',
+		'name': 'Horquilla Suspension 206 1.6',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
@@ -1001,12 +1136,14 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_828971-MLA31607183068_072019-F.webp',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Horquilla Suspensión',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
-		'id': 'dc-parrillasuspension10',
-		'name': 'Parrilla Susp. Izq. Megane /R19 1992/…',	
+		'id': 'dc-horquillasuspension10',
+		'name': 'Horquilla Susp. Izq. Megane /R19 1992/…',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
@@ -1016,12 +1153,14 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_828971-MLA31607183068_072019-F.webp',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Horquilla Suspensión',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
-		'id': 'dc-parrillasuspension11',
-		'name': 'Parrilla Susp. Der. Megane /R19 1992/…',	
+		'id': 'dc-horquillasuspension11',
+		'name': 'Horquilla Susp. Der. Megane /R19 1992/…',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
@@ -1031,12 +1170,14 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_828971-MLA31607183068_072019-F.webp',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Horquilla Suspensión',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
-		'id': 'dc-parrillasuspension12',
-		'name': 'Parrilla Der. Renault Megane III/Fluence',	
+		'id': 'dc-horquillasuspension12',
+		'name': 'Horquilla Der. Renault Megane III/Fluence',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
@@ -1046,12 +1187,14 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_16345-MLA20119003636_062014-F.webp',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Horquilla Suspensión',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
-		'id': 'dc-parrillasuspension13',
-		'name': 'Parrilla Izq. Renault Megane III/Fluence',	
+		'id': 'dc-horquillasuspension13',
+		'name': 'Horquilla Izq. Renault Megane III/Fluence',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
@@ -1061,7 +1204,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_16345-MLA20119003636_062014-F.webp',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Horquilla Suspensión',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -1076,7 +1221,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51Gggbv5wNL._AC_SL1002_.jpg',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -1091,7 +1238,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_950669-MLA32630921270_102019-F.webp',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -1106,7 +1255,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/2O0AAOSwQdBkvqpB/s-l1600.jpg',
-		'categoria':'Mango Suspensión'
+		'categoria':'Mango Suspensión',
+		'codigoCliente': 'MWG2036',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -1121,7 +1272,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://cdn.pkwteile.de/thumb?id=18278876&m=0&n=0&lng=es&ccf=94077841',
-		'categoria':'Mango Suspensión'
+		'categoria':'Mango Suspensión',
+		'codigoCliente': 'MWG2035',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -1136,7 +1289,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_926330-MLA46634095897_072021-F.webp',
-		'categoria':'Mango Suspensión'
+		'categoria':'Mango Suspensión',
+		'codigoCliente': 'MWG2041',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -1151,7 +1306,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_615504-MLA69763535496_062023-F.webp',
-		'categoria':'Mango Suspensión'
+		'categoria':'Mango Suspensión',
+		'codigoCliente': 'MWG2042',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -1166,7 +1323,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_700842-MLA43970876403_112020-F.webp',
-		'categoria':'Mango Suspensión'
+		'categoria':'Mango Suspensión',
+		'codigoCliente': 'MWG2039',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -1181,7 +1340,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_832189-MLA43971152423_112020-F.webp',
-		'categoria':'Mango Suspensión'
+		'categoria':'Mango Suspensión',
+		'codigoCliente': 'MWG2040',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -1196,7 +1357,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/7WMAAOSwvopjfg0s/s-l1600.jpg',
-		'categoria':'Mango Suspensión'
+		'categoria':'Mango Suspensión',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -1211,7 +1374,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.desguacealarcon.com/img-productos/imagenes/p-mangueta-delantera-derecha-dacia-sandero-stepway-essential-12018-122020_511479_id_787985-2.jpg',
-		'categoria':'Mango Suspensión'
+		'categoria':'Mango Suspensión',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -1226,7 +1391,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_640184-MLA48278092772_112021-F.webp',
-		'categoria':'Maza Rueda'
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 	
 	{
@@ -1241,7 +1408,9 @@ export const items = [
 		'marca': 'Mini',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_955453-MLM31086819106_062019-F.webp',
-		'categoria':'Moldura Arco de Rueda'
+		'categoria':'Moldura Arco de Rueda',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -1256,7 +1425,9 @@ export const items = [
 		'marca': 'Alfa Romeo',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/-S4AAOSwGTpiqIPq/s-l640.jpg',
-		'categoria':'Motoventilador'
+		'categoria':'Motoventilador',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -1271,7 +1442,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://gauss.com.br/produtos/wp-content/uploads/sites/2/2020/11/ge1018-2048x2048.jpg.webp',
-		'categoria':'Motoventilador'
+		'categoria':'Motoventilador',
+		'codigoCliente': 'MW002',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -1286,7 +1459,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_606290-MLA31098584032_062019-F.webp',
-		'categoria':'Motoventilador'
+		'categoria':'Motoventilador',
+		'codigoCliente': 'MW003',
+		'cliente':'WILLHELM'
 	},
 	
 	{
@@ -1301,7 +1476,9 @@ export const items = [
 		'marca': 'Peugeot',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_773785-MLA70704803365_072023-F.webp',
-		'categoria':'Motoventilador'
+		'categoria':'Motoventilador',
+		'codigoCliente': 'MW001',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -1316,7 +1493,9 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_947419-MLC51203450296_082022-F.webp',
-		'categoria':'Motoventilador'
+		'categoria':'Motoventilador',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 	{
@@ -1332,7 +1511,8 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_625746-MLA53456476886_012023-F.webp',
 		'categoria':'Motoventilador',
-		'cliente': 'WILLHELM'
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'WILLHELM'
 	},
 
 

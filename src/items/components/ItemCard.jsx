@@ -15,7 +15,7 @@ export const ItemCard = ({
 	first_appearance,
 	characters,
 	oem,
-	cliente,
+	codigoCliente,
 	descripcion,
 	etiqueta_familia
 	
@@ -32,7 +32,7 @@ export const ItemCard = ({
 							<div className="card-body">
 								<h5 className="card-title">{name}</h5>
 								<p className="card-text">{oem}</p>
-								<p className="card-text">{cliente}</p>
+								<p className="card-text">{codigoCliente}</p>
 								{/* <CharactersByAutoPart alter_ego={pais} characters={etiqueta_familia} /> */}
 								<p className="card-text">
 									<small className="text-muted">{descripcion}</small>

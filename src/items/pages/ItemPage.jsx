@@ -30,6 +30,9 @@ export const ItemPage = () => {
 			<div className="col-8">
 				<ul className="list-group list-group-flush">
 					<li className="list-group-item"><b>OEM:</b> {item.oem}</li>
+					{
+						item.cliente ? <li className="list-group-item"><b>{item.cliente}: </b>{item.codigoCliente} </li> : ''
+					}
 					<li className="list-group-item"><b>Marca:</b> {item.marca}</li>
 					<li className="list-group-item"><b>Descripción</b> {item.descripcion}</li>
 				</ul>
