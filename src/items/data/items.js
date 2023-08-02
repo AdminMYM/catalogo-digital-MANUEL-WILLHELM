@@ -1331,7 +1331,8 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_625746-MLA53456476886_012023-F.webp',
-		'categoria':'Motoventilador'
+		'categoria':'Motoventilador',
+		'cliente': 'WILLHELM'
 	},
 
 
