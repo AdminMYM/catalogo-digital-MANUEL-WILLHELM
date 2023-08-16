@@ -10,6 +10,7 @@ export const items = [
 
 		'oem': '17422752632',
 		'marca': 'Mini',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'Electroventilador original Mini Cooper, hecho en Alemania, equipo original marca Mahle Hella.',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_665761-MLA51152086278_082022-F.webp',
 		'categoria': 'Electroventiladores',
@@ -27,6 +28,7 @@ export const items = [
 
 		'oem': '17101475577',
 		'marca': 'Mini',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/vPsAAOSwmsdgISJr/s-l500.jpg',
 		'categoria':'Electroventiladores',
@@ -44,6 +46,7 @@ export const items = [
 
 		'oem': '6001550562',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_608897-MLA70418192692_072023-F.webp',
 		'categoria':'Electroventiladores',
@@ -61,6 +64,7 @@ export const items = [
 
 		'oem': '6001550769',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_782916-MLA40577836116_012020-F.webp',
 		'categoria':'Electroventiladores',
@@ -78,6 +82,7 @@ export const items = [
 
 		'oem': '7701070217/V9010780',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_848789-MLA42519580077_072020-F.webp',
 		'categoria':'Electroventiladores',
@@ -95,6 +100,7 @@ export const items = [
 
 		'oem': '71794718',
 		'marca': 'Fiat',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/-W0AAOSwhkFgQQ5b/s-l1200.jpg',
 		'categoria':'Kit de Embrague',
@@ -112,6 +118,7 @@ export const items = [
 
 		'oem': '2053.R3',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/-W0AAOSwhkFgQQ5b/s-l1200.jpg',
 		'categoria':'Kit de Embrague',
@@ -129,6 +136,7 @@ export const items = [
 
 		'oem': '2050.J5/2050.R7',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_804186-MLA48956169407_012022-F.webp',
 		'categoria':'Kit de Embrague',
@@ -146,6 +154,7 @@ export const items = [
 
 		'oem': '2051.S7/95666915/2052.A0',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_804186-MLA48956169407_012022-F.webp',
 		'categoria':'Kit de Embrague',
@@ -163,6 +172,7 @@ export const items = [
 
 		'oem': '2052.T6',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_804186-MLA48956169407_012022-F.webp',
 		'categoria':'Kit de Embrague',
@@ -180,6 +190,7 @@ export const items = [
 
 		'oem': '2053.09',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_619507-MLA70657027445_072023-F.webp',
 		'categoria':'Kit de Embrague',
@@ -197,6 +208,7 @@ export const items = [
 
 		'oem': '826211',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_690472-MLA49010676077_022022-F.webp',
 		'categoria':'Kit de Embrague',
@@ -214,6 +226,7 @@ export const items = [
 
 		'oem': '826212',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.autociudad.com.ar/common/showimage.aspx?s=600&img=clu-0-wo-logo-0.jpg',
 		'categoria':'Kit de Embrague',
@@ -231,6 +244,7 @@ export const items = [
 
 		'oem': '302051060R',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_778896-MLA26967699497_032018-F.webp',
 		'categoria':'Kit de Embrague',
@@ -248,6 +262,7 @@ export const items = [
 
 		'oem': '30 20 532 01R/30 62 014 73R',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_778896-MLA26967699497_032018-F.webp',
 		'categoria':'Kit de Embrague',
@@ -265,6 +280,7 @@ export const items = [
 
 		'oem': '7701476327/306200650R',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_778896-MLA26967699497_032018-F.webp',
 		'categoria':'Kit de Embrague',
@@ -282,6 +298,7 @@ export const items = [
 
 		'oem': '302054789R/302051548R',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://aglobalcars.com/wp-content/uploads/2023/02/24.jpg',
 		'categoria':'Kit de Embrague',
@@ -299,6 +316,7 @@ export const items = [
 
 		'oem': 'FT806205U',
 		'marca': 'PENDIENTE',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://aglobalcars.com/wp-content/uploads/2023/02/24.jpg',
 		'categoria':'Kit de Embrague',
@@ -316,6 +334,7 @@ export const items = [
 
 		'oem': '4249.G1/4246.W7',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance.es/media/catalog/product/cache/e730d56669a6b225923c6f3363621cbc/e/6/e687441674ae6a3bb5c6808cae60e10b.jpg',
 		'categoria':'Disco de Freno',
@@ -333,6 +352,7 @@ export const items = [
 
 		'oem': '4249.17/ 4246.W2',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_644013-MLA32418427278_102019-F.webp',
 		'categoria':'Disco de Freno',
@@ -350,6 +370,7 @@ export const items = [
 
 		'oem': '4249.K1/4249.93',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance.es/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/1/0/10aa85cd40ac0c73bae97204aee248b9.jpg',
 		'categoria':'Disco de Freno',
@@ -367,6 +388,7 @@ export const items = [
 
 		'oem': '402063149R/40 20 676 15R',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_978235-MCO68869216878_042023-F.webp',
 		'categoria':'Disco de Freno',
@@ -384,6 +406,7 @@ export const items = [
 
 		'oem': '6001547603/6001546860/6001543456',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_876352-MLA49913666951_052022-F.webp',
 		'categoria':'Bomba Combustible',
@@ -401,6 +424,7 @@ export const items = [
 
 		'oem': '503177',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/71w0JgDntSL._AC_SL1500_.jpg',
 		'categoria':'Base Amortiguador',
@@ -420,6 +444,7 @@ export const items = [
 
 		'oem': '9817592480',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance.es/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/c/b/cbf0a102d3eb727257e6f60d840b576d.jpg',
 		'categoria':'Base Amortiguador',
@@ -437,6 +462,7 @@ export const items = [
 
 		'oem': '9800479780',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance.es/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/c/6/c6fcb26b77e6b6c65acc17f62b306b36.png',
 		'categoria':'Base Amortiguador',
@@ -454,6 +480,7 @@ export const items = [
 
 		'oem': '5031.A3',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.italianadesuspensiones.com/cdn/shop/products/IMG_0144_32a6a033-277d-4284-a923-ec6c3bb3c93a_480x480.JPG?v=1573777391',
 		'categoria':'Base Amortiguador',
@@ -471,6 +498,7 @@ export const items = [
 
 		'oem': '5038.24',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.italianadesuspensiones.com/cdn/shop/products/IMG_0144_32a6a033-277d-4284-a923-ec6c3bb3c93a_480x480.JPG?v=1573777391',
 		'categoria':'Base Amortiguador',
@@ -488,6 +516,7 @@ export const items = [
 
 		'oem': '9800479780',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.italianadesuspensiones.com/cdn/shop/products/IMG_0144_32a6a033-277d-4284-a923-ec6c3bb3c93a_480x480.JPG?v=1573777391',
 		'categoria':'Base Amortiguador',
@@ -505,6 +534,7 @@ export const items = [
 
 		'oem': '7700827435',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.distrecol.com/wp-content/uploads/2017/04/2-13-1808-768x768.jpg',
 		'categoria':'Base Amortiguador',
@@ -522,6 +552,7 @@ export const items = [
 
 		'oem': '7700829529',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.distrecol.com/wp-content/uploads/2017/04/2-13-180620v1-768x768.jpg',
 		'categoria':'Base Amortiguador',
@@ -539,6 +570,7 @@ export const items = [
 
 		'oem': '543A05804R/543200001R',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_690945-MLA31112260661_062019-F.webp',
 		'categoria':'Base Amortiguador',
@@ -556,6 +588,7 @@ export const items = [
 
 		'oem': '543A00135R/543A03661R',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance.es/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/f/e/fe6a0c94ceb16600cb327f71b5e6de68.jpg',
 		'categoria':'Base Amortiguador',
@@ -573,6 +606,7 @@ export const items = [
 
 		'oem': '7701208891',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance.es/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/0/c/0c7a9a82f33bad584c94d96b789df42b.jpg',
 		'categoria':'Base Amortiguador',
@@ -590,6 +624,7 @@ export const items = [
 
 		'oem': '5038,40',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_891776-MLA31351644623_072019-F.webp',
 		'categoria':'Base Amortiguador',
@@ -607,6 +642,7 @@ export const items = [
 
 		'oem': '5038,36',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_701460-MLA45308235093_032021-F.webp',
 		'categoria':'Base Amortiguador',
@@ -624,6 +660,7 @@ export const items = [
 
 		'oem': '11519455978',
 		'marca': 'BMW',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51U5SgnUybL._AC_SL1000_.jpg',
 		'categoria':'Bomba Agua',
@@ -641,6 +678,7 @@ export const items = [
 
 		'oem': '11517513062',
 		'marca': 'Mini',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/71z0X-w+Q0L._AC_SL1416_.jpg',
 		'categoria':'Bomba Agua',
@@ -658,6 +696,7 @@ export const items = [
 
 		'oem': '11517520123',
 		'marca': 'Mini',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/kaIAAOSwMiRjybJ6/s-l1600.jpg',
 		'categoria':'Bomba Agua',
@@ -675,6 +714,7 @@ export const items = [
 
 		'oem': '11518512443',
 		'marca': 'Mini',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/kaIAAOSwMiRjybJ6/s-l1600.jpg',
 		'categoria':'Bomba Agua',
@@ -692,6 +732,7 @@ export const items = [
 
 		'oem': '120459/11 51 7 619 020',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_826915-MLA52468696596_112022-F.webp',
 		'categoria':'Bomba Agua',
@@ -709,6 +750,7 @@ export const items = [
 
 		'oem': '8200146297',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_826915-MLA52468696596_112022-F.webp',
 		'categoria':'Bomba Agua',
@@ -726,6 +768,7 @@ export const items = [
 
 		'oem': '2C4181',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://autocity-image-repository.s3.us-east-2.amazonaws.com/products/08-2C4181%2000_400x400.jpg',
 		'categoria':'Aro Pistón',
@@ -743,6 +786,7 @@ export const items = [
 
 		'oem': '9819938580/1920.RT',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_954500-MLA53640944222_022023-F.webp',
 		'categoria':'Bomba Gasolina',
@@ -760,6 +804,7 @@ export const items = [
 
 		'oem': '9819938480/13 53 7 528 345',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_838280-MLA53255249970_012023-F.webp',
 		'categoria':'Bomba Gasolina',
@@ -777,6 +822,7 @@ export const items = [
 
 		'oem': '5131.A9/5131.F8',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://img.xentra.com.mx/autopartescimaco/img/productos/BUJE%20HORQUILLA%20TRASERA%202/K-8658/K-8658_842_12_12_22_02_11.webp',
 		'categoria':'Buje Horquilla',
@@ -794,6 +840,7 @@ export const items = [
 
 		'oem': '5131.94',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_854017-MLA47603524201_092021-F.webp',
 		'categoria':'Buje Horquilla',
@@ -811,6 +858,7 @@ export const items = [
 
 		'oem': '1809.21/1809.29/9613305380',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_854017-MLA47603524201_092021-F.webp',
 		'categoria':'Buje Horquilla',
@@ -828,6 +876,7 @@ export const items = [
 
 		'oem': '5960.E6',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_624747-MLA53333268678_012023-F.webp',
 		'categoria':'Bujía de Precalentamiento',
@@ -845,6 +894,7 @@ export const items = [
 
 		'oem': '4545.K3',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_965135-MLA44793086142_022021-F.webp',
 		'categoria':'Cable Sensor',
@@ -862,6 +912,7 @@ export const items = [
 
 		'oem': '306206822R/8200805652',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance.es/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/0/b/0bf619419f08acc8f95fdc7beed6b54a.jpg',
 		'categoria':'Collarín Hidráulico',
@@ -879,6 +930,7 @@ export const items = [
 
 		'oem': '255403601R',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51EUaOHPt-L._AC_SL1000_.jpg',
 		'categoria':'Conmutador Luces',
@@ -896,6 +948,7 @@ export const items = [
 
 		'oem': '1109.AY/1109 Z5',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51f-T1NttnL._AC_SL1000_.jpg',
 		'categoria':'Filtros',
@@ -913,6 +966,7 @@ export const items = [
 
 		'oem': '1906.E6/9672314980',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51f-T1NttnL._AC_SL1000_.jpg',
 		'categoria':'Filtros',
@@ -930,6 +984,7 @@ export const items = [
 
 		'oem': '1901.97/9809721080',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance24.com/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/d/3/d3573b48180f85581b89277d4ccb9ea0.jpg',
 		'categoria':'Filtros',
@@ -947,6 +1002,7 @@ export const items = [
 
 		'oem': '1109.CK/9467521180',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance24.com/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/d/3/d3573b48180f85581b89277d4ccb9ea0.jpg',
 		'categoria':'Filtros',
@@ -964,6 +1020,7 @@ export const items = [
 
 		'oem': '1614157280',
 		'marca': 'Fiat',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance24.com/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/d/3/d3573b48180f85581b89277d4ccb9ea0.jpg',
 		'categoria':'Filtros',
@@ -981,6 +1038,7 @@ export const items = [
 
 		'oem': '50513444/50521046',
 		'marca': 'Alfa Romeo',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/m0cAAOSwMBdbzWvA/s-l500.jpg',
 		'categoria':'Horquilla Suspensión',
@@ -998,6 +1056,7 @@ export const items = [
 
 		'oem': '50513442',
 		'marca': 'Alfa Romeo',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_691523-MLA43219146857_082020-F.webp',
 		'categoria':'Horquilla Suspensión',
@@ -1015,6 +1074,7 @@ export const items = [
 
 		'oem': '9815014680',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://ecooparts.com//src/img/despiece/v4nd15/14322212/000002415541.webp',
 		'categoria':'Horquilla Suspensión',
@@ -1032,6 +1092,7 @@ export const items = [
 
 		'oem': '9815014380',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://ecooparts.com//src/img/despiece/v4nd15/14322212/000002415541.webp',
 		'categoria':'Horquilla Suspensión',
@@ -1049,6 +1110,7 @@ export const items = [
 
 		'oem': '98 316 264 80',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://ecooparts.com//src/img/despiece/v4nd15/14322212/000002415541.webp',
 		'categoria':'Horquilla Suspensión',
@@ -1066,6 +1128,7 @@ export const items = [
 
 		'oem': '98 320 392 80',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://ecooparts.com//src/img/despiece/v4nd15/14322212/000002415541.webp',
 		'categoria':'Horquilla Suspensión',
@@ -1083,6 +1146,7 @@ export const items = [
 
 		'oem': '3520.G8',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/31kr5dH-ABL._AC_.jpg',
 		'categoria':'Horquilla Suspensión',
@@ -1100,6 +1164,7 @@ export const items = [
 
 		'oem': '3521.C8',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_828971-MLA31607183068_072019-F.webp',
 		'categoria':'Horquilla Suspensión',
@@ -1117,6 +1182,7 @@ export const items = [
 
 		'oem': '3521.E7',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_828971-MLA31607183068_072019-F.webp',
 		'categoria':'Horquilla Suspensión',
@@ -1134,6 +1200,7 @@ export const items = [
 
 		'oem': '7700781034',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_828971-MLA31607183068_072019-F.webp',
 		'categoria':'Horquilla Suspensión',
@@ -1151,6 +1218,7 @@ export const items = [
 
 		'oem': '7700781035',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_828971-MLA31607183068_072019-F.webp',
 		'categoria':'Horquilla Suspensión',
@@ -1168,6 +1236,7 @@ export const items = [
 
 		'oem': '545008682R',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_16345-MLA20119003636_062014-F.webp',
 		'categoria':'Horquilla Suspensión',
@@ -1185,6 +1254,7 @@ export const items = [
 
 		'oem': '545014055R',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_16345-MLA20119003636_062014-F.webp',
 		'categoria':'Horquilla Suspensión',
@@ -1202,6 +1272,7 @@ export const items = [
 
 		'oem': '1984 F8',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51Gggbv5wNL._AC_SL1002_.jpg',
 		'categoria':'Inyectores',
@@ -1219,6 +1290,7 @@ export const items = [
 
 		'oem': '280158057',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_950669-MLA32630921270_102019-F.webp',
 		'categoria':'Inyectores',
@@ -1236,6 +1308,7 @@ export const items = [
 
 		'oem': '8200207307/7700419547',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/2O0AAOSwQdBkvqpB/s-l1600.jpg',
 		'categoria':'Mango Suspensión',
@@ -1253,6 +1326,7 @@ export const items = [
 
 		'oem': '8200207313/7700419548',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://cdn.pkwteile.de/thumb?id=18278876&m=0&n=0&lng=es&ccf=94077841',
 		'categoria':'Mango Suspensión',
@@ -1270,6 +1344,7 @@ export const items = [
 
 		'oem': '8200150223/40014830412',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_926330-MLA46634095897_072021-F.webp',
 		'categoria':'Mango Suspensión',
@@ -1287,6 +1362,7 @@ export const items = [
 
 		'oem': '8200150222/40015148112',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_615504-MLA69763535496_062023-F.webp',
 		'categoria':'Mango Suspensión',
@@ -1304,6 +1380,7 @@ export const items = [
 
 		'oem': '6001548866',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_700842-MLA43970876403_112020-F.webp',
 		'categoria':'Mango Suspensión',
@@ -1321,6 +1398,7 @@ export const items = [
 
 		'oem': '6001548864',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_832189-MLA43971152423_112020-F.webp',
 		'categoria':'Mango Suspensión',
@@ -1338,6 +1416,7 @@ export const items = [
 
 		'oem': '400155389R',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/7WMAAOSwvopjfg0s/s-l1600.jpg',
 		'categoria':'Mango Suspensión',
@@ -1355,6 +1434,7 @@ export const items = [
 
 		'oem': '400149807R',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.desguacealarcon.com/img-productos/imagenes/p-mangueta-delantera-derecha-dacia-sandero-stepway-essential-12018-122020_511479_id_787985-2.jpg',
 		'categoria':'Mango Suspensión',
@@ -1372,6 +1452,7 @@ export const items = [
 
 		'oem': '7701205499',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_640184-MLA48278092772_112021-F.webp',
 		'categoria':'Maza Rueda',
@@ -1389,6 +1470,7 @@ export const items = [
 
 		'oem': '51777300819',
 		'marca': 'Mini',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_955453-MLM31086819106_062019-F.webp',
 		'categoria':'Moldura Arco de Rueda',
@@ -1406,6 +1488,7 @@ export const items = [
 
 		'oem': '50514469',
 		'marca': 'Alfa Romeo',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/-S4AAOSwGTpiqIPq/s-l640.jpg',
 		'categoria':'Motoventilador',
@@ -1423,6 +1506,7 @@ export const items = [
 
 		'oem': '1253.R7/1253.C9',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://gauss.com.br/produtos/wp-content/uploads/sites/2/2020/11/ge1018-2048x2048.jpg.webp',
 		'categoria':'Motoventilador',
@@ -1440,6 +1524,7 @@ export const items = [
 
 		'oem': '1253.P8/9812028580',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_606290-MLA31098584032_062019-F.webp',
 		'categoria':'Motoventilador',
@@ -1457,6 +1542,7 @@ export const items = [
 
 		'oem': '1253.K2',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_773785-MLA70704803365_072023-F.webp',
 		'categoria':'Motoventilador',
@@ -1474,6 +1560,7 @@ export const items = [
 
 		'oem': '214810537R/214810011R',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_947419-MLC51203450296_082022-F.webp',
 		'categoria':'Motoventilador',
@@ -1491,6 +1578,7 @@ export const items = [
 
 		'oem': '214814297R',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_625746-MLA53456476886_012023-F.webp',
 		'categoria':'Motoventilador',
@@ -1508,6 +1596,7 @@ export const items = [
 
 		'oem': '5802.FG/5802 FH',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_875486-MLA53147144029_012023-F.webp',
 		'categoria':'Motor de Arranque',
@@ -1525,6 +1614,7 @@ export const items = [
 
 		'oem': '51117301578',
 		'marca': 'Mini',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/vWoAAOSw7pFiZwX9/s-l1600.jpg',
 		'categoria':'Parachoques',
@@ -1542,6 +1632,7 @@ export const items = [
 
 		'oem': '11287598833',
 		'marca': 'Mini',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_633653-MLA48359933547_112021-F.webp',
 		'categoria':'Poleas',
@@ -1559,6 +1650,7 @@ export const items = [
 
 		'oem': '7509476',
 		'marca': 'Mini',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/61hg1wFKeGL._AC_SL1500_.jpg',
 		'categoria':'Poleas',
@@ -1576,6 +1668,7 @@ export const items = [
 
 		'oem': '11281482199',
 		'marca': 'Mini',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_757183-MLA69803135513_062023-F.webp',
 		'categoria':'Poleas',
@@ -1593,6 +1686,7 @@ export const items = [
 
 		'oem': '82 00 297 936',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://aftermarket.schaeffler.es/medias/csccProductZoom-544008810.JPG?context=bWFzdGVyfHByb2R1Y3RpbWFnZXN8Nzk4Mzl8aW1hZ2UvanBlZ3xwcm9kdWN0aW1hZ2VzL2hjMy9oZGEvOTE5MzQ5ODgzNzAyMi5qcGd8MTM0MTgxYWQxYjIxZDI5OGNkYmM4NDdkZWNhYzE2MzhmMGYyZDQzNDI2YzJkOWNiMTdmNTMyMDYzM2M3NDdjZg',
 		'categoria':'Poleas',
@@ -1610,6 +1704,7 @@ export const items = [
 
 		'oem': '8200051194',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance24.com/media/catalog/product/cache/e730d56669a6b225923c6f3363621cbc/9/b/9b677d12a508869ee24d4791ca634da8.jpg',
 		'categoria':'Poleas',
@@ -1627,6 +1722,7 @@ export const items = [
 
 		'oem': '11287598832',
 		'marca': 'Mini',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_869940-MLA69264230109_052023-F.webp',
 		'categoria':'Poleas',
@@ -1644,6 +1740,7 @@ export const items = [
 
 		'oem': '1330.P8/1333.89',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_710711-MLA50090362097_052022-F.webp',
 		'categoria':'Radiador',
@@ -1661,6 +1758,7 @@ export const items = [
 
 		'oem': '1330.W2/1330.F5',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_671276-MLA31012500023_062019-F.webp',
 		'categoria':'Radiador',
@@ -1678,6 +1776,7 @@ export const items = [
 
 		'oem': '9809141780/9675747980',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_968071-MLA46441660349_062021-F.webp',
 		'categoria':'Radiador',
@@ -1695,6 +1794,7 @@ export const items = [
 
 		'oem': '7711354528/8660003460',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/kGAAAOSweatejLWF/s-l500.png',
 		'categoria':'Radiador',
@@ -1712,6 +1812,7 @@ export const items = [
 
 		'oem': '214100078R/214105731R',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_699924-MLA44280954621_122020-F.webp',
 		'categoria':'Radiador',
@@ -1729,6 +1830,7 @@ export const items = [
 
 		'oem': '214100016R/214101448R',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_996199-MLA49934208923_052022-F.webp',
 		'categoria':'Radiador',
@@ -1746,6 +1848,7 @@ export const items = [
 
 		'oem': '214102118R',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_992576-MLA52389135070_112022-F.webp',
 		'categoria':'Radiador',
@@ -1763,6 +1866,7 @@ export const items = [
 
 		'oem': '214100598R/8200582026',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_956314-MLA42521337045_072020-F.webp',
 		'categoria':'Radiador',
@@ -1780,6 +1884,7 @@ export const items = [
 
 		'oem': 'W01-358-8050',
 		'marca': 'PENDIENTE',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/-j8AAOSwC-5eMaHt/s-l500.jpg',
 		'categoria':'Resortes',
@@ -1797,6 +1902,7 @@ export const items = [
 
 		'oem': '77 00 108 671',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://media.partauto.fr/p/6/4/1/3/7/3/8/6413738-thickbox_default.jpg',
 		'categoria':'Regulador Árbol de Levas',
@@ -1814,6 +1920,7 @@ export const items = [
 
 		'oem': '51137300589',
 		'marca': 'Mini',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/31aa04YvPUL._AC_.jpg',
 		'categoria':'Rejilla Cromada',
@@ -1831,6 +1938,7 @@ export const items = [
 
 		'oem': '7701206244',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_743232-MLA52023980634_102022-F.webp',
 		'categoria':'Resistencia Electroventilador',
@@ -1848,6 +1956,7 @@ export const items = [
 
 		'oem': '1267.E3',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51pOP9x7tRL._AC_SL1002_.jpg',
 		'categoria':'Resistencia Motoventilador',
@@ -1865,6 +1974,7 @@ export const items = [
 
 		'oem': '1267.A9/9641212580',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_952644-MLA70789901654_082023-F.webp',
 		'categoria':'Resistencia Motoventilador',
@@ -1882,6 +1992,7 @@ export const items = [
 
 		'oem': '9673999880/1308.CL',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_706801-MLA54969066817_042023-F.webp',
 		'categoria':'Resistencia Motoventilador',
@@ -1899,6 +2010,7 @@ export const items = [
 
 		'oem': '7701206244/7701040717',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_743232-MLA52023980634_102022-F.webp',
 		'categoria':'Resistencia Motoventilador',
@@ -1916,6 +2028,7 @@ export const items = [
 
 		'oem': '6001550931',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://cdn.distriauto.eu/assets/img/accessoire/big/7111395.jpg',
 		'categoria':'Repartidor de Frenado',
@@ -1933,6 +2046,7 @@ export const items = [
 
 		'oem': '9831088880/9831692180',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/t8f1y56/rotulasusp.jpg',
 		'categoria':'Rótula Suspensión',
@@ -1950,6 +2064,7 @@ export const items = [
 
 		'oem': '50521924',
 		'marca': 'Alfa Romeo',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/7KNcxfm/Soporte-Motor-Alfa-Romeo-Giulietta.jpg',
 		'categoria':'Soporte Motor',
@@ -1967,6 +2082,7 @@ export const items = [
 
 		'oem': '51879600',
 		'marca': 'Alfa Romeo',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://alfashop.s3.amazonaws.com/uploads/c/product/image/image/5286/4121034.png',
 		'categoria':'Soporte Motor',
@@ -1984,6 +2100,7 @@ export const items = [
 
 		'oem': '51888091',
 		'marca': 'Alfa Romeo',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://alfashop.s3.amazonaws.com/uploads/c/product/image/image/4890/4121026.jpg',
 		'categoria':'Soporte Motor',
@@ -2001,6 +2118,7 @@ export const items = [
 
 		'oem': '9808838680',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/7Jq1B12/soportemotor4.jpg',
 		'categoria':'Soporte Motor',
@@ -2018,6 +2136,7 @@ export const items = [
 
 		'oem': '9673768480',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/A~4AAOSw9hxiBqJc/s-l1600.jpg',
 		'categoria':'Soporte Motor',
@@ -2035,6 +2154,7 @@ export const items = [
 
 		'oem': '1807.54/1807.P0',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/jGQx83w/soportemotor6.jpg',
 		'categoria':'Soporte Motor',
@@ -2052,6 +2172,7 @@ export const items = [
 
 		'oem': '1807.GF',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/6xYAAOSwDoFkGs7P/s-l1600.jpg',
 		'categoria':'Soporte Motor',
@@ -2069,6 +2190,7 @@ export const items = [
 
 		'oem': '9820297580',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://cdn.proxyparts.com/parts/101293/16852724/large/d87e0ad2-b83a-4244-aa25-452bb31c1836.jpg',
 		'categoria':'Soporte Motor',
@@ -2086,6 +2208,7 @@ export const items = [
 
 		'oem': '1807.HC',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_935496-MLA47725636761_102021-F.webp',
 		'categoria':'Soporte Motor',
@@ -2103,6 +2226,7 @@ export const items = [
 
 		'oem': '1920.LR',
 		'marca': 'BMW',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/513i1fSnIDS._AC_SL1500_.jpg',
 		'categoria':'Sensor de Posición del Cigüeñal',
@@ -2120,6 +2244,7 @@ export const items = [
 
 		'oem': '1920.LS',
 		'marca': 'Mini',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/414Nj2JRB5L._AC_SL1500_.jpg',
 		'categoria':'Sensor de Posición del Cigüeñal',
@@ -2137,6 +2262,7 @@ export const items = [
 
 		'oem': '5293161AA',
 		'marca': 'Mini',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51Pul44VvFL._AC_SL1500_.jpg',
 		'categoria':'Sensor de Posición del Cigüeñal',
@@ -2154,6 +2280,7 @@ export const items = [
 
 		'oem': '46818007',
 		'marca': 'Fiat',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_755045-MLA47204476749_082021-F.webp',
 		'categoria':'Sensor de Velocidad',
@@ -2171,6 +2298,7 @@ export const items = [
 
 		'oem': '46779409',
 		'marca': 'Fiat',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_919251-MLA42662231904_072020-F.webp',
 		'categoria':'Tanque Expansión',
@@ -2188,6 +2316,7 @@ export const items = [
 
 		'oem': '8MA376737181',
 		'marca': 'Mini',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/61zWQdp-RiL._AC_SL1500_.jpg',
 		'categoria':'Tanque Expansión',
@@ -2205,6 +2334,7 @@ export const items = [
 
 		'oem': '17137529273',
 		'marca': 'Mini',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_609590-MLA42157510994_062020-F.webp',
 		'categoria':'Tanque Expansión',
@@ -2222,6 +2352,7 @@ export const items = [
 
 		'oem': '17137539267',
 		'marca': 'Mini',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_661879-MLA47981600116_102021-F.webp',
 		'categoria':'Tanque Expansión',
@@ -2239,6 +2370,7 @@ export const items = [
 
 		'oem': '1323.11',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/YDHPjCj/tanqueexp5.jpg',
 		'categoria':'Tanque Expansión',
@@ -2256,6 +2388,7 @@ export const items = [
 
 		'oem': '1323.X6',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://images.2407.pl/media/images/products/2021/05/2021-01-05_01-20-44_8763198.jpg',
 		'categoria':'Tanque Expansión',
@@ -2273,6 +2406,7 @@ export const items = [
 
 		'oem': '1323.86',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/nCwGXX9/tanque7.jpg',
 		'categoria':'Tanque Expansión',
@@ -2290,6 +2424,7 @@ export const items = [
 
 		'oem': '9800777280',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_620298-MLA50985365197_082022-F.webp',
 		'categoria':'Tanque Expansión',
@@ -2307,6 +2442,7 @@ export const items = [
 
 		'oem': '1323.A3',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.autostanic.hr/content/images/thumbs/0802271_proizvod-novi-dio-1733972-802271_550.jpeg',
 		'categoria':'Tanque Expansión',
@@ -2324,6 +2460,7 @@ export const items = [
 
 		'oem': '1323.14',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_810986-MLA47473408106_092021-F.webp',
 		'categoria':'Tanque Expansión',
@@ -2341,6 +2478,7 @@ export const items = [
 
 		'oem': '217104354R',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/VB00VGr/tanque11.jpg',
 		'categoria':'Tanque Expansión',
@@ -2358,6 +2496,7 @@ export const items = [
 
 		'oem': '217104354R',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/bR9823V/tanque12.png',
 		'categoria':'Tanque Expansión',
@@ -2375,6 +2514,7 @@ export const items = [
 
 		'oem': '217100005R',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_879902-MLA42163352964_062020-F.webp',
 		'categoria':'Tanque Expansión',
@@ -2392,6 +2532,7 @@ export const items = [
 
 		'oem': '7701470460',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_612722-MLA51583246968_092022-F.webp',
 		'categoria':'Tanque Expansión',
@@ -2409,6 +2550,7 @@ export const items = [
 
 		'oem': '55192669/ 55202176',
 		'marca': 'Fiat',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_681481-MLA44457488146_122020-F.webp',
 		'categoria':'Termostatos de Agua',
@@ -2426,6 +2568,7 @@ export const items = [
 
 		'oem': '11537647751',
 		'marca': 'Mini',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_922283-MLA70438786155_072023-F.webp',
 		'categoria':'Termostatos de Agua',
@@ -2443,6 +2586,7 @@ export const items = [
 
 		'oem': '1336 Z0/9647265980',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_863146-MLA31047051685_062019-F.webp',
 		'categoria':'Termostatos de Agua',
@@ -2460,6 +2604,7 @@ export const items = [
 
 		'oem': '1338.AV',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/St4YXhG/TERMOSTATO4.jpg',
 		'categoria':'Termostatos de Agua',
@@ -2477,6 +2622,7 @@ export const items = [
 
 		'oem': '1336 Z0',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/LvFzwPM/TERMOSTATO5.jpg',
 		'categoria':'Termostatos de Agua',
@@ -2494,6 +2640,7 @@ export const items = [
 
 		'oem': '8200772990',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_914464-MLA41731125766_052020-F.webp',
 		'categoria':'Termostatos de Agua',
@@ -2511,6 +2658,7 @@ export const items = [
 
 		'oem': '8200700094',
 		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_649695-MLA52415808561_112022-F.webp',
 		'categoria':'Termostatos de Agua',
@@ -2528,6 +2676,7 @@ export const items = [
 
 		'oem': '1610936580/3817.75',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/k6KDFLs/terminaldireccion1.jpg',
 		'categoria':'Terminal de Dirección',
@@ -2545,6 +2694,7 @@ export const items = [
 
 		'oem': '1610936880/3817.89',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://cdn.spareto.com/variants/images/000/385/095/large/31971_1.jpg?1606241961',
 		'categoria':'Terminal de Dirección',
@@ -2562,6 +2712,7 @@ export const items = [
 
 		'oem': '3812.F4/3817.76',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51LJ5lyEeAL._AC_SL1500_.jpg',
 		'categoria':'Terminal de Dirección',
@@ -2579,6 +2730,7 @@ export const items = [
 
 		'oem': '2454.G5',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/61MAl2xAfBL._AC_SL1500_.jpg',
 		'categoria':'Terminal de Dirección',
@@ -2596,6 +2748,7 @@ export const items = [
 
 		'oem': '55217579/55219903',
 		'marca': 'Alfa Romeo',
+		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/M1QJ6ms/Volante-bimasa.jpg',
 		'categoria':'Volante Bimasa',

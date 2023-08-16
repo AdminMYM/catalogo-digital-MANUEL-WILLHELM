@@ -9,6 +9,7 @@ export const ItemPage = () => {
 	const navigate = useNavigate()
 
 	const item = useMemo(()=> getItemById(id, [id]))
+	console.log('este es: ', item)
 
 	const onNavigateBack = ()=>{
 		navigate(-1)
@@ -30,10 +31,9 @@ export const ItemPage = () => {
 			<div className="col-8">
 				<ul className="list-group list-group-flush">
 					<li className="list-group-item"><b>OEM:</b> {item.oem}</li>
-					{
-						item.cliente ? <li className="list-group-item"><b>{item.cliente}: </b>{item.codigoCliente} </li> : ''
-					}
 					<li className="list-group-item"><b>Marca:</b> {item.marca}</li>
+					<li className="list-group-item"><b>WILLHELM:</b> {item.codigoCliente}</li>
+					{item.pesoNetoUnitario ? <li className="list-group-item"><b>Peso Neto Unitario:</b> {item.pesoNetoUnitario} kg</li> : '' } 
 					<li className="list-group-item"><b>Descripción</b> {item.descripcion}</li>
 				</ul>
 
